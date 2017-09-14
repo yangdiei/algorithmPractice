@@ -1,0 +1,5 @@
+*.opensdf
+Debug
+*.sdf
+*.suo
+*.sln
